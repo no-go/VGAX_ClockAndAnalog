@@ -216,7 +216,7 @@ void loop() {
     vga.delay(300);
   }
   
-  vga.delay(80); // should be 100 -> but I have to much code
+  vga.delay(91); // should be 100 -> but I have to much code
   tick();
 }
 
